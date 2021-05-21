@@ -1,0 +1,7 @@
+# No permission msg
+noperm: "&cAccess denied."
+# Motd of server
+motd:
+  - "&6This server is running &eMyMOTD"
+  - "&bBy FireRoz"
+maxplayers: 50

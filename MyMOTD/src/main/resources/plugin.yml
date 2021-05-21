@@ -1,0 +1,15 @@
+name: MyMOTD
+version: ${project.version}
+main: com.github.firerozha.mymotd.MyMOTD
+api-version: 1.16
+prefix: MyMOTD
+authors: [ FireRoz ]
+description: Motd for your server
+softdepend: [PlaceHolderAPI]
+
+commands:
+  mymotdreload:
+
+permissions:
+  mymotd.reload:
+    default: op
